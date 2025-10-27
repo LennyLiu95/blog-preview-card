@@ -7,7 +7,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## Preview
 
-**Live Demo:** [https://YunzhuoLiu.github.io/blog-preview-card/](https://YunzhuoLiu.github.io/blog-preview-card/)
+**Live Demo:** [https://YunzhuoLiu.github.io/blog-preview-card/](https://lennyliu95.github.io/blog-preview-card/)
 
 ---
 
